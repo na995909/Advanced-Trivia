@@ -1,0 +1,41 @@
+body{
+    background-image: url("../images/background_3.jpg");
+   
+}
+
+.container_1{
+	text-align: center;
+    padding-bottom: 10px;
+    position: relative;
+    top: 0;
+    bottom: 0;
+}
+
+#title{
+	
+	font-size: 72px;
+	font-weight: bold;
+  	background: -webkit-linear-gradient(#9900ff, #003366);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	padding-top: 20px;
+
+}
+
+.content{
+	background-color:#ffff99;
+	margin: 0 auto 0;
+	width: 70%;
+	height: 70%;
+	display: none;
+	padding:50px;
+	text-align: center;
+}
+.start{
+	background-color:#9999ff;
+	font-size: 35px;
+	border-radius: 10px;
+	border-style:outset;
+	border-width: 2px;
+	margin-top: 10%;
+	margin-bottom: 50px;
